@@ -1,1 +1,1 @@
-if there are more than one ipynb, just view the lastest one
+the train and validation process is in train process folder. 
